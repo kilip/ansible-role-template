@@ -3,7 +3,10 @@ Ansible Role: TEMPLATE
 
 Ansible role TEMPLATE
 
-Requirements
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/kilip/ansible-role-template/CI?style=flat-square)](https://github.com/kilip/ansible-role-template/actions/workflows/ci.yml)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kilip/ansible-role-workstation?style=flat-square)](https://github.com/kilip/ansible-role-template/releases)
+[![GitHub](https://img.shields.io/github/license/kilip/ansible-role-template)]()
+Requirements)
 ------------
 
 None.
