@@ -1,4 +1,6 @@
 galaxy_info:
+  namespace: kilip
+  name: template
   author: kilip
   description: Role TEMPLATE
   license: MIT
@@ -6,13 +8,21 @@ galaxy_info:
   platforms:
     - name: EL
       versions:
-        - "8"
-        - "9"
+        - 7
+        - 8
+    - name: Fedora
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - stretch
+        - buster
+        - bullseye
     - name: Ubuntu
       versions:
-        - jammy
-        - focal
         - bionic
+        - focal
+        - jammy
   galaxy_tags: []
 
 dependencies: []

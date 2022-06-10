@@ -4,4 +4,4 @@
   tasks:
     - name: "Include template"
       include_role:
-        name: "template"
+        name: "kilip.template"
