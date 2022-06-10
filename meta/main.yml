@@ -1,0 +1,18 @@
+galaxy_info:
+  author: kilip
+  description: Role TEMPLATE
+  license: MIT
+  min_ansible_version: "2.9"
+  platforms:
+    - name: EL
+      versions:
+        - "8"
+        - "9"
+    - name: Ubuntu
+      versions:
+        - jammy
+        - focal
+        - bionic
+  galaxy_tags: []
+
+dependencies: []

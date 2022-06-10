@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "**/*.yml": "ansible",
+    "**/roles/**/*.yml": "ansible",
+    "**/ansible/**/*.sops.yml": "yaml"
+  },
+  "sops.configPath": "./.sops.yaml"
+}
